@@ -2,7 +2,7 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/bg.65df1b86.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/bg.dd693908.png);
 
 	font-family: "Comic Sans MS";
 	font-size: 27px;
@@ -14,7 +14,6 @@ body {
 	position: absolute;
 }
 
-<head>waw<head>
 
 
 a {
@@ -684,10 +683,10 @@ a {
 	  background-repeat: no-repeat;
 	  background-size: cover;
 	  width: 380px;
-	  height: 280px;
+	  height: 345px;
 	  position: absolute;
 	  left: 260px;
-	  top: 150px;
+	  top: 135px;
   }
   
   .Home_sendscreen__P9tsM{
