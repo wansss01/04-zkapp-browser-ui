@@ -2,7 +2,7 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/bg.dd693908.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/bg.1d970b5c.png);
 
 	font-family: "Comic Sans MS";
 	font-size: 27px;
@@ -13,8 +13,6 @@ body {
 	top: 0px;
 	position: absolute;
 }
-
-
 
 a {
   color: inherit;
@@ -29,7 +27,6 @@ a {
   html {
     color-scheme: dark;
   }
-
 }
 
 @media (max-width: 480px) {
@@ -197,7 +194,7 @@ a {
 	width: 75px;
 	height: 75px;
 	position: absolute;
-	left: -240px;
+	left: -180px;
 	top: -10px;
 }
 
@@ -209,7 +206,7 @@ a {
 	width: 98px;
 	height: 70px;
 	position: absolute;
-	left: -250px;
+	left: -190px;
 	top: 65px;
 }
 
@@ -221,7 +218,7 @@ a {
 	width: 90px;
 	height: 95px;
 	position: absolute;
-	left: -250px;
+	left: -189px;
 	top: 132px;
 }
 
@@ -233,7 +230,7 @@ a {
 	width: 105px;
 	height: 80px;
 	position: absolute;
-	left: -255px;
+	left: -190px;
 	top: 220px;
 }
 
